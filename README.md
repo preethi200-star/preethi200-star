@@ -1,16 +1,28 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Preethi Guntuka</h1>
+<p align="center">
+  B.Tech CSE Student • Aspiring Software Developer<br/>
+  • Python • C  • HTML • CSS • Java Script
+</p>
 
-<!--
-**preethi200-star/preethi200-star** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🔭 I’m currently diving deep into *Data Structures & Algorithms*
+- 🌱 Exploring *full-stack web dev* & *machine learning*
+- 👯 Always open to *collaborate on open-source*
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/preethi-guntuka/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠 Languages & Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-blue?style=flat-square&logo=c)
+![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+
+
+
+---
+
+## 📊 GitHub Stats
+![Preethi's GitHub stats](https://github-readme-stats.vercel.app/api?username=preethi-guntuka&show_icons=true)
